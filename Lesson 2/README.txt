@@ -1,1 +1,0 @@
-This folder contains material needed for projects in EE class level 1 lesson 2
