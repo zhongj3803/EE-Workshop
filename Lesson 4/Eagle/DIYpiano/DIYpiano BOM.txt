@@ -1,0 +1,24 @@
+Partlist exported from C:/Users/Parents/Documents/League/GitHub/EE-Workshop/Lesson 4/Eagle/DIYpiano/DIYpiano.sch at 12/1/2018 8:10 AM
+
+Part Value                           Device                          Package                  Description                          MF MPN OC_NEWARK PROD_ID     SF_SKU    SPICEPREFIX
+C1   100n                            C-US025-025X050                 C025-025X050             CAPACITOR, American symbol                  unknown                         C          
+IC1  NE555N                          NE555N                          DIL08                    TIMER                                       unknown                                    
+JP1                                  PINHD-1X2                       1X02                     PIN HEADER                                  unknown                                    
+LS1  BUZZER-PTH_NO_SILK              BUZZER-PTH_NO_SILK              BUZZER-12MM-NS           Buzzer                                      unknown   COMP-08253  COM-07950            
+R1   1K                              R-US_0207/10                    0207/10                  RESISTOR, American symbol                   unknown                         R          
+R2   6.2K                            R-US_0207/10                    0207/10                  RESISTOR, American symbol                   unknown                         R          
+R3   390                             R-US_0207/10                    0207/10                  RESISTOR, American symbol                   unknown                         R          
+R4   910                             R-US_0207/10                    0207/10                  RESISTOR, American symbol                   unknown                         R          
+R5   1K                              R-US_0207/10                    0207/10                  RESISTOR, American symbol                   unknown                         R          
+R6   1.1K                            R-US_0207/10                    0207/10                  RESISTOR, American symbol                   unknown                         R          
+R7   620                             R-US_0207/10                    0207/10                  RESISTOR, American symbol                   unknown                         R          
+R8   1.3K                            R-US_0207/10                    0207/10                  RESISTOR, American symbol                   unknown                         R          
+R9   1.5K                            R-US_0207/10                    0207/10                  RESISTOR, American symbol                   unknown                         R          
+SW1  MOMENTARY-SWITCH-SPST-PTH-6.0MM MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM Momentary Switch (Pushbutton) - SPST        unknown    SWCH-08441 COM-00097            
+SW2  MOMENTARY-SWITCH-SPST-PTH-6.0MM MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM Momentary Switch (Pushbutton) - SPST        unknown    SWCH-08441 COM-00097            
+SW3  MOMENTARY-SWITCH-SPST-PTH-6.0MM MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM Momentary Switch (Pushbutton) - SPST        unknown    SWCH-08441 COM-00097            
+SW4  MOMENTARY-SWITCH-SPST-PTH-6.0MM MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM Momentary Switch (Pushbutton) - SPST        unknown    SWCH-08441 COM-00097            
+SW5  MOMENTARY-SWITCH-SPST-PTH-6.0MM MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM Momentary Switch (Pushbutton) - SPST        unknown    SWCH-08441 COM-00097            
+SW6  MOMENTARY-SWITCH-SPST-PTH-6.0MM MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM Momentary Switch (Pushbutton) - SPST        unknown    SWCH-08441 COM-00097            
+SW7  MOMENTARY-SWITCH-SPST-PTH-6.0MM MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM Momentary Switch (Pushbutton) - SPST        unknown    SWCH-08441 COM-00097            
+SW8  MOMENTARY-SWITCH-SPST-PTH-6.0MM MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM Momentary Switch (Pushbutton) - SPST        unknown    SWCH-08441 COM-00097            
