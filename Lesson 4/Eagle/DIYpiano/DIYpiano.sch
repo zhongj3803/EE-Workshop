@@ -10699,6 +10699,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <parts>
 <part name="IC1" library="linear" library_urn="urn:adsk.eagle:library:262" deviceset="*555" device="N" package3d_urn="urn:adsk.eagle:package:16409/2" technology="NE" value="NE555N">
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="595-TLC555CP"/>
 <attribute name="MPN" value="TLC555CP"/>
 <attribute name="OC_NEWARK" value="24M8296"/>
 </part>
@@ -10710,6 +10711,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </pinmapping>
 </spice>
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="660-MF1/4DCT26A1001F"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
@@ -10721,6 +10723,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </pinmapping>
 </spice>
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="603-MFR-25FRF52-6K2"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
@@ -10732,6 +10735,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </pinmapping>
 </spice>
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="603-MFR-25FTE52-390R"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
@@ -10743,6 +10747,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </pinmapping>
 </spice>
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="603-MFR-25FRF52-910R"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
@@ -10754,6 +10759,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </pinmapping>
 </spice>
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="660-MF1/4DCT26A1001F"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
@@ -10765,6 +10771,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </pinmapping>
 </spice>
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="603-MFR-25FBF52-1K1"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
@@ -10776,6 +10783,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </pinmapping>
 </spice>
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="603-MFR-25FBF52-620R"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
@@ -10787,6 +10795,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </pinmapping>
 </spice>
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="603-MFR-25FBF52-1K3"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
@@ -10798,6 +10807,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </pinmapping>
 </spice>
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="603-MFR-25FBF52-1K5"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
@@ -10813,52 +10823,64 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </pinmapping>
 </spice>
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="581-SR201C104KARTR1"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="SW2" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-6.0MM" package3d_urn="urn:adsk.eagle:package:40163/1" value="MOMENTARY-SWITCH-SPST-PTH-6.0MM">
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="653-B3F-1000"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="SW8" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-6.0MM" package3d_urn="urn:adsk.eagle:package:40163/1" value="MOMENTARY-SWITCH-SPST-PTH-6.0MM">
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="653-B3F-1000"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="SW7" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-6.0MM" package3d_urn="urn:adsk.eagle:package:40163/1" value="MOMENTARY-SWITCH-SPST-PTH-6.0MM">
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="653-B3F-1000"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="SW6" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-6.0MM" package3d_urn="urn:adsk.eagle:package:40163/1" value="MOMENTARY-SWITCH-SPST-PTH-6.0MM">
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="653-B3F-1000"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="SW5" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-6.0MM" package3d_urn="urn:adsk.eagle:package:40163/1" value="MOMENTARY-SWITCH-SPST-PTH-6.0MM">
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="653-B3F-1000"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="SW4" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-6.0MM" package3d_urn="urn:adsk.eagle:package:40163/1" value="MOMENTARY-SWITCH-SPST-PTH-6.0MM">
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="653-B3F-1000"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="SW3" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-6.0MM" package3d_urn="urn:adsk.eagle:package:40163/1" value="MOMENTARY-SWITCH-SPST-PTH-6.0MM">
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="653-B3F-1000"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="SW1" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-6.0MM" package3d_urn="urn:adsk.eagle:package:40163/1" value="MOMENTARY-SWITCH-SPST-PTH-6.0MM">
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="653-B3F-1000"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<part name="LS1" library="buzzer" library_urn="urn:adsk.eagle:library:113" deviceset="F/HMB" device="" package3d_urn="urn:adsk.eagle:package:5269/1" value="AT-1220-TT-3V-2-R"/>
+<part name="LS1" library="buzzer" library_urn="urn:adsk.eagle:library:113" deviceset="F/HMB" device="" package3d_urn="urn:adsk.eagle:package:5269/1" value="">
+<attribute name="MOUSER#" value="665-AST-01508MR-R"/>
+</part>
 <part name="BATT" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="CR1220" device="THM" package3d_urn="urn:adsk.eagle:package:6240666/1" value="3V">
 <attribute name="MF" value="KEYSTONE ELECTR"/>
+<attribute name="MOUSER#" value="534-3001"/>
 <attribute name="MPN" value="3001"/>
 <attribute name="OC_NEWARK" value="66F5623"/>
 </part>
@@ -10870,6 +10892,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </pinmapping>
 </spice>
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="581-SR201C104KARTR1"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
@@ -10878,6 +10901,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <part name="X_3" library="ngspice-simulation" library_urn="urn:adsk.eagle:library:527439" deviceset="GND" device=""/>
 <part name="Q1" library="transistor" library_urn="urn:adsk.eagle:library:402" deviceset="*-NPN-" device="TO92-E1" package3d_urn="urn:adsk.eagle:package:29916/2" value="2N2222">
 <attribute name="MF" value="FAIRCHILD SEMICONDUCTOR"/>
+<attribute name="MOUSER#" value="833-PN2222A-AP"/>
 <attribute name="MPN" value="PN2222ATF"/>
 <attribute name="OC_NEWARK" value="58K2048"/>
 </part>
@@ -10890,6 +10914,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </pinmapping>
 </spice>
 <attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="660-MF1/4DCT26A1001F"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
@@ -10905,6 +10930,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="15.24" y="50.8" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="7.62" y="61.722" size="1.778" layer="95"/>
 <attribute name="VALUE" x="7.62" y="37.973" size="1.778" layer="96"/>
+<attribute name="MOUSER#" x="15.24" y="50.8" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R3" gate="G$1" x="73.66" y="63.5" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" x="73.66" y="63.5" size="1.778" layer="96" display="off"/>
@@ -10912,6 +10938,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="73.66" y="63.5" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="72.1614" y="59.69" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="76.962" y="59.69" size="1.778" layer="96" rot="R90"/>
+<attribute name="MOUSER#" x="73.66" y="63.5" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="R2" gate="G$1" x="83.82" y="53.34" smashed="yes">
 <attribute name="OC_NEWARK" x="83.82" y="53.34" size="1.778" layer="96" display="off"/>
@@ -10919,6 +10946,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="83.82" y="53.34" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="80.01" y="54.8386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="80.01" y="50.038" size="1.778" layer="96"/>
+<attribute name="MOUSER#" x="83.82" y="53.34" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R4" gate="G$1" x="96.52" y="53.34" smashed="yes">
 <attribute name="OC_NEWARK" x="96.52" y="53.34" size="1.778" layer="96" display="off"/>
@@ -10926,6 +10954,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="96.52" y="53.34" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="92.71" y="54.8386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="92.71" y="50.038" size="1.778" layer="96"/>
+<attribute name="MOUSER#" x="96.52" y="53.34" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R10" gate="G$1" x="109.22" y="53.34" smashed="yes">
 <attribute name="OC_NEWARK" x="109.22" y="53.34" size="1.778" layer="96" display="off"/>
@@ -10933,6 +10962,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="109.22" y="53.34" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="105.41" y="54.8386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="105.41" y="50.038" size="1.778" layer="96"/>
+<attribute name="MOUSER#" x="109.22" y="53.34" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R9" gate="G$1" x="121.92" y="53.34" smashed="yes">
 <attribute name="OC_NEWARK" x="121.92" y="53.34" size="1.778" layer="96" display="off"/>
@@ -10940,6 +10970,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="121.92" y="53.34" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="118.11" y="54.8386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="118.11" y="50.038" size="1.778" layer="96"/>
+<attribute name="MOUSER#" x="121.92" y="53.34" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R8" gate="G$1" x="134.62" y="53.34" smashed="yes">
 <attribute name="OC_NEWARK" x="134.62" y="53.34" size="1.778" layer="96" display="off"/>
@@ -10947,6 +10978,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="134.62" y="53.34" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="130.81" y="54.8386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="130.81" y="50.038" size="1.778" layer="96"/>
+<attribute name="MOUSER#" x="134.62" y="53.34" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R7" gate="G$1" x="147.32" y="53.34" smashed="yes">
 <attribute name="OC_NEWARK" x="147.32" y="53.34" size="1.778" layer="96" display="off"/>
@@ -10954,6 +10986,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="147.32" y="53.34" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="143.51" y="54.8386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="143.51" y="50.038" size="1.778" layer="96"/>
+<attribute name="MOUSER#" x="147.32" y="53.34" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R6" gate="G$1" x="160.02" y="53.34" smashed="yes">
 <attribute name="OC_NEWARK" x="160.02" y="53.34" size="1.778" layer="96" display="off"/>
@@ -10961,6 +10994,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="160.02" y="53.34" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="156.21" y="54.8386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="156.21" y="50.038" size="1.778" layer="96"/>
+<attribute name="MOUSER#" x="160.02" y="53.34" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R5" gate="G$1" x="172.72" y="53.34" smashed="yes">
 <attribute name="OC_NEWARK" x="172.72" y="53.34" size="1.778" layer="96" display="off"/>
@@ -10968,6 +11002,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="172.72" y="53.34" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="168.91" y="54.8386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="168.91" y="50.038" size="1.778" layer="96"/>
+<attribute name="MOUSER#" x="172.72" y="53.34" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="P+1" gate="VCC" x="-27.94" y="78.74" smashed="yes">
 <attribute name="VALUE" x="-30.48" y="76.2" size="1.778" layer="96" rot="R90"/>
@@ -10987,6 +11022,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="12.7" y="27.94" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="13.716" y="28.575" size="1.778" layer="95"/>
 <attribute name="VALUE" x="13.716" y="23.749" size="1.778" layer="96"/>
+<attribute name="MOUSER#" x="12.7" y="27.94" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="SW2" gate="G$1" x="91.44" y="40.64" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" x="91.44" y="40.64" size="1.778" layer="96" display="off"/>
@@ -10994,6 +11030,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="91.44" y="40.64" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="94.996" y="40.64" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="88.9" y="25.908" size="1.778" layer="96" font="vector" rot="R180" align="top-center" display="off"/>
+<attribute name="MOUSER#" x="91.44" y="40.64" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="SW8" gate="G$1" x="104.14" y="40.64" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" x="104.14" y="40.64" size="1.778" layer="96" display="off"/>
@@ -11001,6 +11038,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="104.14" y="40.64" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="107.696" y="40.64" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="104.648" y="40.64" size="1.778" layer="96" font="vector" rot="R90" align="top-center" display="off"/>
+<attribute name="MOUSER#" x="104.14" y="40.64" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="SW7" gate="G$1" x="116.84" y="40.64" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" x="116.84" y="40.64" size="1.778" layer="96" display="off"/>
@@ -11008,6 +11046,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="116.84" y="40.64" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="120.396" y="40.64" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="117.348" y="40.64" size="1.778" layer="96" font="vector" rot="R90" align="top-center" display="off"/>
+<attribute name="MOUSER#" x="116.84" y="40.64" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="SW6" gate="G$1" x="129.54" y="40.64" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" x="129.54" y="40.64" size="1.778" layer="96" display="off"/>
@@ -11015,6 +11054,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="129.54" y="40.64" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="133.096" y="40.64" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="130.048" y="40.64" size="1.778" layer="96" font="vector" rot="R90" align="top-center" display="off"/>
+<attribute name="MOUSER#" x="129.54" y="40.64" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="SW5" gate="G$1" x="142.24" y="40.64" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" x="142.24" y="40.64" size="1.778" layer="96" display="off"/>
@@ -11022,6 +11062,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="142.24" y="40.64" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="145.796" y="40.64" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="142.748" y="40.64" size="1.778" layer="96" font="vector" rot="R90" align="top-center" display="off"/>
+<attribute name="MOUSER#" x="142.24" y="40.64" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="SW4" gate="G$1" x="154.94" y="40.64" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" x="154.94" y="40.64" size="1.778" layer="96" display="off"/>
@@ -11029,6 +11070,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="154.94" y="40.64" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="158.496" y="40.64" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="155.448" y="40.64" size="1.778" layer="96" font="vector" rot="R90" align="top-center" display="off"/>
+<attribute name="MOUSER#" x="154.94" y="40.64" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="SW3" gate="G$1" x="167.64" y="40.64" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" x="167.64" y="40.64" size="1.778" layer="96" display="off"/>
@@ -11036,6 +11078,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="167.64" y="40.64" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="171.196" y="40.64" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="168.148" y="40.64" size="1.778" layer="96" font="vector" rot="R90" align="top-center" display="off"/>
+<attribute name="MOUSER#" x="167.64" y="40.64" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="SW1" gate="G$1" x="180.34" y="40.64" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" x="180.34" y="40.64" size="1.778" layer="96" display="off"/>
@@ -11043,10 +11086,12 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="180.34" y="40.64" size="1.778" layer="96" display="off"/>
 <attribute name="NAME" x="183.896" y="40.64" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="180.848" y="40.64" size="1.778" layer="96" font="vector" rot="R90" align="top-center" display="off"/>
+<attribute name="MOUSER#" x="180.34" y="40.64" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="LS1" gate="G$1" x="50.8" y="91.44" smashed="yes" rot="R270">
 <attribute name="NAME" x="57.15" y="93.98" size="1.778" layer="95"/>
 <attribute name="VALUE" x="50.8" y="83.82" size="1.778" layer="96"/>
+<attribute name="MOUSER#" x="53.34" y="83.82" size="1.778" layer="96"/>
 </instance>
 <instance part="BATT" gate="G$1" x="-27.94" y="50.8" smashed="yes" rot="R90">
 <attribute name="NAME" x="-20.955" y="49.53" size="1.778" layer="95" rot="R180"/>
@@ -11054,6 +11099,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="OC_NEWARK" x="-27.94" y="50.8" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="-27.94" y="50.8" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="-27.94" y="50.8" size="1.778" layer="96" display="off"/>
+<attribute name="MOUSER#" x="-27.94" y="50.8" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="C2" gate="G$1" x="-10.16" y="43.18" smashed="yes">
 <attribute name="NAME" x="-9.144" y="43.815" size="1.778" layer="95"/>
@@ -11061,6 +11107,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="OC_NEWARK" x="-10.16" y="43.18" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="-10.16" y="43.18" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="-10.16" y="43.18" size="1.778" layer="96" display="off"/>
+<attribute name="MOUSER#" x="-10.16" y="43.18" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="X_1" gate="G$1" x="-27.94" y="17.78" smashed="yes"/>
 <instance part="X_2" gate="G$1" x="12.7" y="17.78" smashed="yes"/>
@@ -11071,6 +11118,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="OC_NEWARK" x="45.72" y="78.74" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="45.72" y="78.74" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="45.72" y="78.74" size="1.778" layer="96" display="off"/>
+<attribute name="MOUSER#" x="45.72" y="78.74" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="P+5" gate="VCC" x="48.26" y="101.6" smashed="yes">
 <attribute name="VALUE" x="45.72" y="99.06" size="1.778" layer="96" rot="R90"/>
@@ -11081,6 +11129,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="35.56" y="78.74" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="NAME" x="39.37" y="77.2414" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="39.37" y="82.042" size="1.778" layer="96" rot="R180"/>
+<attribute name="MOUSER#" x="35.56" y="78.74" size="1.778" layer="96" rot="R180" display="off"/>
 </instance>
 </instances>
 <busses>
