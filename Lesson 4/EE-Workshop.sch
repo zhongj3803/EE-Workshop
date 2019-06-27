@@ -252,7 +252,7 @@
 </class>
 </classes>
 <parts>
-<part name="BATT" library="battery" library_urn="urn:adsk.eagle:library:109" deviceset="AB9V" device="" package3d_urn="urn:adsk.eagle:package:4600/1"/>
+<part name="BATT" library="battery" library_urn="urn:adsk.eagle:library:109" deviceset="AB9V" device="" package3d_urn="urn:adsk.eagle:package:4600/1" value="AB3V"/>
 </parts>
 <sheets>
 <sheet>
