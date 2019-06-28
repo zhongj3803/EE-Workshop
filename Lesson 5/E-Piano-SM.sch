@@ -10665,8 +10665,8 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <part name="U1" library="linear" library_urn="urn:adsk.eagle:library:262" deviceset="*555" device="D" package3d_urn="urn:adsk.eagle:package:16404/2" technology="NE" value="NE555D">
 <attribute name="MF" value=""/>
 <attribute name="MOUSER#" value="595-TLC555CDR"/>
-<attribute name="MPN" value="TLC555CDR"/>
-<attribute name="OC_NEWARK" value="24M8296"/>
+<attribute name="MPN" value=""/>
+<attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="R10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
 <spice>
@@ -10677,7 +10677,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </spice>
 <attribute name="MF" value=""/>
 <attribute name="MOUSER#" value="652-CR0805FX-1001ELF"/>
-<attribute name="MPN" value="CR0805FX-1001ELF"/>
+<attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="R9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="6.2K">
@@ -10689,7 +10689,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </spice>
 <attribute name="MF" value=""/>
 <attribute name="MOUSER#" value="652-CR0805FX-6201ELF"/>
-<attribute name="MPN" value="CR0805FX-6201ELF"/>
+<attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="R8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="390">
@@ -10701,7 +10701,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </spice>
 <attribute name="MF" value=""/>
 <attribute name="MOUSER#" value="652-CR0805JW-391ELF"/>
-<attribute name="MPN" value="CR0805JW-391ELF"/>
+<attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="R7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="910">
@@ -10713,7 +10713,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </spice>
 <attribute name="MF" value=""/>
 <attribute name="MOUSER#" value="652-CR0805FX-9100ELF"/>
-<attribute name="MPN" value="CR0805FX-9100ELF"/>
+<attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="R6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
@@ -10725,7 +10725,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </spice>
 <attribute name="MF" value=""/>
 <attribute name="MOUSER#" value="652-CR0805FX-1001ELF"/>
-<attribute name="MPN" value="CR0805FX-1001ELF"/>
+<attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="R5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.1K">
@@ -10737,7 +10737,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </spice>
 <attribute name="MF" value=""/>
 <attribute name="MOUSER#" value="652-CR0805FX-1101ELF"/>
-<attribute name="MPN" value="CR0805FX-1101ELF"/>
+<attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="620">
@@ -10749,7 +10749,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </spice>
 <attribute name="MF" value=""/>
 <attribute name="MOUSER#" value="652-CR0805JW-621ELF"/>
-<attribute name="MPN" value="CR0805JW-621ELF"/>
+<attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="R3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.3K">
@@ -10761,7 +10761,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </spice>
 <attribute name="MF" value=""/>
 <attribute name="MOUSER#" value="652-CR0805JW-132ELF"/>
-<attribute name="MPN" value="CR0805JW-132ELF"/>
+<attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.5K">
@@ -10773,7 +10773,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </spice>
 <attribute name="MF" value=""/>
 <attribute name="MOUSER#" value="652-CR0805FX-1501ELF"/>
-<attribute name="MPN" value="CR0805FX-1501ELF"/>
+<attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="P+1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
@@ -10787,56 +10787,56 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </pinmapping>
 </spice>
 <attribute name="MF" value=""/>
-<attribute name="MOUSER#" value="791-MT21B104K500CT"/>
-<attribute name="MPN" value="MT21B104K500CT"/>
+<attribute name="MOUSER#" value="603-CC805JRX7R9BB104"/>
+<attribute name="MPN" value="CC805JRX7R9BB104"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="SW8" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-6.2MM-TALL" package3d_urn="urn:adsk.eagle:package:40172/1" value="MOMENTARY-SWITCH-SPST-SMD-6.2MM-TALL">
 <attribute name="MF" value=""/>
-<attribute name="MOUSER#" value="653-B3F-1000"/>
-<attribute name="MPN" value=""/>
+<attribute name="MOUSER#" value="693-1301.9317"/>
+<attribute name="MPN" value="1301.9317"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="SW7" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-6.2MM-TALL" package3d_urn="urn:adsk.eagle:package:40172/1" value="MOMENTARY-SWITCH-SPST-SMD-6.2MM-TALL">
 <attribute name="MF" value=""/>
-<attribute name="MOUSER#" value="653-B3F-1000"/>
-<attribute name="MPN" value=""/>
+<attribute name="MOUSER#" value="693-1301.9317"/>
+<attribute name="MPN" value="1301.9317"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="SW6" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-6.2MM-TALL" package3d_urn="urn:adsk.eagle:package:40172/1" value="MOMENTARY-SWITCH-SPST-SMD-6.2MM-TALL">
 <attribute name="MF" value=""/>
-<attribute name="MOUSER#" value="653-B3F-1000"/>
-<attribute name="MPN" value=""/>
+<attribute name="MOUSER#" value="693-1301.9317"/>
+<attribute name="MPN" value="1301.9317"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="SW5" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-6.2MM-TALL" package3d_urn="urn:adsk.eagle:package:40172/1" value="MOMENTARY-SWITCH-SPST-SMD-6.2MM-TALL">
 <attribute name="MF" value=""/>
-<attribute name="MOUSER#" value="653-B3F-1000"/>
-<attribute name="MPN" value=""/>
+<attribute name="MOUSER#" value="693-1301.9317"/>
+<attribute name="MPN" value="1301.9317"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="SW4" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-6.2MM-TALL" package3d_urn="urn:adsk.eagle:package:40172/1" value="MOMENTARY-SWITCH-SPST-SMD-6.2MM-TALL">
 <attribute name="MF" value=""/>
-<attribute name="MOUSER#" value="653-B3F-1000"/>
-<attribute name="MPN" value=""/>
+<attribute name="MOUSER#" value="693-1301.9317"/>
+<attribute name="MPN" value="1301.9317"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="SW3" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-6.2MM-TALL" package3d_urn="urn:adsk.eagle:package:40172/1" value="MOMENTARY-SWITCH-SPST-SMD-6.2MM-TALL">
 <attribute name="MF" value=""/>
-<attribute name="MOUSER#" value="653-B3F-1000"/>
-<attribute name="MPN" value=""/>
+<attribute name="MOUSER#" value="693-1301.9317"/>
+<attribute name="MPN" value="1301.9317"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="SW2" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-6.2MM-TALL" package3d_urn="urn:adsk.eagle:package:40172/1" value="MOMENTARY-SWITCH-SPST-SMD-6.2MM-TALL">
 <attribute name="MF" value=""/>
-<attribute name="MOUSER#" value="653-B3F-1000"/>
-<attribute name="MPN" value=""/>
+<attribute name="MOUSER#" value="693-1301.9317"/>
+<attribute name="MPN" value="1301.9317"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="SW1" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-6.2MM-TALL" package3d_urn="urn:adsk.eagle:package:40172/1" value="MOMENTARY-SWITCH-SPST-SMD-6.2MM-TALL">
 <attribute name="MF" value=""/>
-<attribute name="MOUSER#" value="653-B3F-1000"/>
-<attribute name="MPN" value=""/>
+<attribute name="MOUSER#" value="693-1301.9317"/>
+<attribute name="MPN" value="1301.9317"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="LS1" library="buzzer" library_urn="urn:adsk.eagle:library:113" deviceset="F/HMB" device="" package3d_urn="urn:adsk.eagle:package:5269/1" value="">
@@ -10850,21 +10850,21 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </pinmapping>
 </spice>
 <attribute name="MF" value=""/>
-<attribute name="MOUSER#" value="791-MT21B104K500CT"/>
-<attribute name="MPN" value="MT21B104K500CT"/>
+<attribute name="MOUSER#" value="603-CC805JRX7R9BB104"/>
+<attribute name="MPN" value="CC805JRX7R9BB104"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="X_1" library="ngspice-simulation" library_urn="urn:adsk.eagle:library:527439" deviceset="GND" device=""/>
 <part name="X_2" library="ngspice-simulation" library_urn="urn:adsk.eagle:library:527439" deviceset="GND" device=""/>
 <part name="X_3" library="ngspice-simulation" library_urn="urn:adsk.eagle:library:527439" deviceset="GND" device=""/>
 <part name="Q1" library="transistor" library_urn="urn:adsk.eagle:library:402" deviceset="*-NPN-" device="SOT23-BEC" package3d_urn="urn:adsk.eagle:package:28748/2" technology="BCW60" value="BCW66">
-<attribute name="MF" value="INFINION TECHNOLOGIES"/>
+<attribute name="MF" value="FAIRCHILD SEMICONDUCTOR"/>
 <attribute name="MOUSER#" value="726-BCW66KHE6327HTSA"/>
-<attribute name="MPN" value="BCW66KHE6327HTSA1"/>
+<attribute name="MPN" value="PN2222ATF"/>
 <attribute name="OC_NEWARK" value="58K2048"/>
 </part>
 <part name="P+5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
-<part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
+<part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="3K">
 <spice>
 <pinmapping spiceprefix="R">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -10873,11 +10873,16 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </spice>
 <attribute name="MF" value=""/>
 <attribute name="MOUSER#" value="652-CR0805FX-1001ELF"/>
-<attribute name="MPN" value="CR0805FX-1001ELF"/>
+<attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="X_4" library="ngspice-simulation" library_urn="urn:adsk.eagle:library:527439" deviceset="GND" device=""/>
-<part name="BATT" library="battery" library_urn="urn:adsk.eagle:library:109" deviceset="AB9V" device="" package3d_urn="urn:adsk.eagle:package:4600/1"/>
+<part name="BATT" library="battery" library_urn="urn:adsk.eagle:library:109" deviceset="AB9V" device="" package3d_urn="urn:adsk.eagle:package:4600/1">
+<attribute name="MF" value=""/>
+<attribute name="MOUSER#" value="534-81-8TB"/>
+<attribute name="MPN" value="81-8"/>
+<attribute name="OC_NEWARK" value="unknown"/>
+</part>
 </parts>
 <sheets>
 <sheet>
@@ -11084,6 +11089,10 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <instance part="BATT" gate="G$1" x="38.1" y="96.52" smashed="yes" rot="R90">
 <attribute name="NAME" x="34.925" y="90.805" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="43.18" y="90.805" size="1.778" layer="96" rot="R90"/>
+<attribute name="OC_NEWARK" x="38.1" y="96.52" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="38.1" y="96.52" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="38.1" y="96.52" size="1.778" layer="96" display="off"/>
+<attribute name="MOUSER#" x="38.1" y="96.52" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 </instances>
 <busses>
