@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-08-16T18:43:52Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "E-Piano-SM"
+        },
+        "Owner": "Jesse Zhong <jessezhong783@gmail.com>",
+        "Size": {
+            "X": 98.73,
+            "Y": 38.09
+        }
+    }
+}
